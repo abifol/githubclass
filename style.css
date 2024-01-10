@@ -1,3 +1,14 @@
+cssCopy code/* Example media query for small screens */ 
+@media screen and (max-width: 768px) {
+  /* CSS rules for small screens */
+}
+
+.body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
 .rectangle2Image {
   width: 1519px;
   height: 614px;
@@ -528,4 +539,7 @@
   font-family: DM Sans;
   font-weight: 700;
   word-wrap: break-word;
+
+  line-height: normal;
+  letter-spacing: -1.56px;
 }
