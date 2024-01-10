@@ -1,0 +1,531 @@
+.rectangle2Image {
+  width: 1519px;
+  height: 614px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.rectangle2Background {
+  width: 1519px;
+  height: 614px;
+  left: 0px;
+  top: 2px;
+  position: absolute;
+  background: rgba(2.13, 2.13, 2.13, 0.59);
+}
+
+.hubIt {
+  width: 530px;
+  left: 8px;
+  top: 154px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28.8px;
+  word-wrap: break-word;
+}
+
+.theBestIt {
+  width: 546px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 69.25px;
+  word-wrap: break-word;
+}
+
+.blueD {
+  width: 155px;
+  height: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  left: 100px;
+  top: 0px;
+  position: absolute;
+  background: #1e47ff;
+  border-radius: 5px;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  display: inline-flex;
+}
+
+.discoverHub {
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 14px;
+  word-wrap: break-word;
+}
+
+.hotLine {
+  width: 163px;
+  height: 14px;
+  left: 300px;
+  top: 18px;
+  position: absolute;
+  text-align: left;
+  color: white;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 600;
+  text-decoration: underline;
+  line-height: 14px;
+  word-wrap: break-word;
+}
+
+.companyVision {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  color: #1b3868;
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 32px;
+  word-wrap: break-word;
+}
+
+.itSolution {
+  width: 458px;
+  left: 0px;
+  top: 45px;
+  position: absolute;
+  color: #333333;
+  font-size: 48px;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 64px;
+  word-wrap: break-word;
+}
+
+.hubIt2 {
+  width: 435px;
+  left: 0px;
+  top: 201px;
+  position: absolute;
+  color: #333333;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  word-wrap: break-word;
+}
+
+.readMore1 {
+  width: 162px;
+  height: 48px;
+  left: 0px;
+  top: 321px;
+  position: absolute;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: inline-flex;
+  width: 162px;
+  height: 48px;
+  background: #1e47ff;
+  border-radius: 4px;
+  width: 200px;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.vectorBlue {
+  width: 138.35px;
+  height: 143.26px;
+  flex-shrink: 0;
+  left: 20.61px;
+  top: 352.26px;
+  position: absolute;
+  background: #1e47ff;
+  border-radius: 20%;
+}
+
+.rectangle4 {
+  width: 426.84px;
+  height: 457.26px;
+  left: 42.19px;
+  top: 15.7px;
+  position: absolute;
+}
+
+.rectangle5 {
+  width: 236.48px;
+  height: 250.22px;
+  left: 255.12px;
+  top: 272.78px;
+  position: absolute;
+}
+
+.yearsExperienceText {
+  width: 129.52px;
+  height: 31.4px;
+  left: 12.76px;
+  top: 20.61px;
+  position: absolute;
+}
+
+.yearsBox {
+  width: 158.96px;
+  height: 78.5px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #1e47ff;
+}
+
+.coreWordPressFrame1 {
+  width: 361px;
+  height: 352px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+  border-radius: 10px;
+  border: 1px rgba(30, 71, 255, 0.37) solid;
+}
+
+.coreWordPressImageContainer1 {
+  width: 70px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #1e47ff;
+  border-radius: 9999px;
+}
+
+.coreWordPressImage1 {
+  width: 25.28px;
+  height: 24.31px;
+  left: 22.36px;
+  top: 22.36px;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.coreWordPressContent1 {
+  width: 287px;
+  height: 117px;
+  left: 0px;
+  top: 45px;
+  position: absolute;
+  text-align: center;
+  color: #666666;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28.8px;
+  word-wrap: break-word;
+}
+
+.coreWordPressHeader1 {
+  left: 29px;
+  top: 0px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 28px;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 38.78px;
+  word-wrap: break-word;
+}
+
+.coreWordPressFrame2 {
+  width: 361px;
+  height: 352px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+  border-radius: 10px;
+  border: 1px rgba(30, 71, 255, 0.37) solid;
+}
+
+.coreWordPressImageContainer2 {
+  width: 70px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #1e47ff;
+  border-radius: 9999px;
+}
+
+.coreWordPressImage2 {
+  width: 18px;
+  height: 17px;
+  left: 26px;
+  top: 26px;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.coreWordPressContent2 {
+  width: 287px;
+  height: 117px;
+  left: 0px;
+  top: 45px;
+  position: absolute;
+  text-align: center;
+  color: #666666;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28.8px;
+  word-wrap: break-word;
+}
+
+.coreWordPressHeader2 {
+  left: 29px;
+  top: 0px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 28px;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 38.78px;
+  word-wrap: break-word;
+}
+
+.coreWordPressFrame3 {
+  width: 361px;
+  height: 352px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+  border-radius: 10px;
+  border: 1px rgba(30, 71, 255, 0.37) solid;
+}
+
+.coreWordPressImageContainer3 {
+  width: 70px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #1e47ff;
+  border-radius: 9999px;
+}
+
+.coreWordPressImage3 {
+  width: 25.28px;
+  height: 24.31px;
+  left: 22.36px;
+  top: 22.36px;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.coreWordPressConten3 {
+  width: 287px;
+  height: 117px;
+  left: 0px;
+  top: 45px;
+  position: absolute;
+  text-align: center;
+  color: #666666;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28.8px;
+  word-wrap: break-word;
+}
+
+.coreWordPressHeader3 {
+  left: 29px;
+  top: 0px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 28px;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 38.78px;
+  word-wrap: break-word;
+}
+
+.itSolution2 {
+  width: 711px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  text-align: center;
+  color: #333333;
+  font-size: 48px;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 64px;
+  word-wrap: break-word;
+}
+
+.hubItContent2 {
+  width: 711px;
+  left: 0px;
+  top: 88px;
+  position: absolute;
+  text-align: center;
+  color: #333333;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 36.3px;
+  word-wrap: break-word;
+}
+
+.ItSecurityHubItContent {
+  width: 350px;
+  left: 0px;
+  top: 379px;
+  position: absolute;
+  color: #6c6c6c;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 36.3px;
+  word-wrap: break-word;
+}
+
+.itSecurityImage {
+  width: 361px;
+  height: 314px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.itSecurityHeader {
+  left: 72px;
+  top: 25px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 30px;
+  word-wrap: break-word;
+}
+
+.mobileDataHubItContent {
+  width: 350px;
+  left: 22px;
+  top: 374px;
+  position: absolute;
+  color: #6c6c6c;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 36.3px;
+  word-wrap: break-word;
+}
+
+.mobileDataImage {
+  width: 361px;
+  height: 314px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.mobileDataHeader {
+  width: 182px;
+  height: 30.51px;
+  left: 57px;
+  top: 25.42px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 30px;
+  word-wrap: break-word;
+}
+
+.forCompaniesHubItcontent {
+  width: 350px;
+  left: 22px;
+  top: 374px;
+  position: absolute;
+  color: #6c6c6c;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 36.3px;
+  word-wrap: break-word;
+}
+
+.forCompaniesImage {
+  width: 361px;
+  height: 314px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.forCompaniesHeader {
+  width: 235px;
+  height: 31px;
+  left: 31px;
+  top: 25.36px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 28px;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 28px;
+  word-wrap: break-word;
+}
+
+.rectangle11Image {
+  width: 1519px;
+  height: 490px;
+  left: 0px;
+  top: 2932px;
+  position: absolute;
+}
+
+.rectangle11ImageBackground {
+  width: 1519px;
+  height: 490px;
+  left: 0px;
+  top: 2932px;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.56);
+}
+
+.whyOurProduct {
+  left: 151px;
+  top: 0px;
+  position: absolute;
+  color: #12141d;
+  font-size: 52px;
+  font-family: DM Sans;
+  font-weight: 700;
+  word-wrap: break-word;
+}
